@@ -1,4 +1,4 @@
-### Hello Guyzz..
+### Hello Guyzz...
 ##  My name is Sohail Abbas and I'm a Front-End developer
 
 
