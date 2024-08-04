@@ -1,7 +1,7 @@
 ### Hello Everyone!
 
-## I am Sohail Abbas, a Front-End Developer with Expertise in Modern Web Technologies
-I specialize in creating dynamic and responsive user interfaces using the latest web technologies.
+## I am Sohail Abbas, a Front-End Developer with Expertise in Modern Web Technologies.
+I am specialize in creating dynamic and responsive user interfaces and websites using the latest web technologies.
 Here are the key tools and frameworks I work with:
 
 <p align="center">
