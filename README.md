@@ -33,3 +33,7 @@ Here are the key tools and frameworks I work with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
+
+
+# GitHubStats
+(https://camo.githubusercontent.com/a70ee106e585ba3cb7be310ceefde11d405cae64c1372659ce2c99cc3a3eb0d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416c74616648756e7a61692673686f775f69636f6e733d74727565267468656d653d7261646963616c)
