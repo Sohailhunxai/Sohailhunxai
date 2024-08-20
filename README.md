@@ -10,9 +10,9 @@ I specialize in creating dynamic and responsive user interfaces and websites usi
 
 ## GitHub Stats
 
-![Sohail Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true)
+![Sohail Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohailhunxai&show_icons=true&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhunxai&layout=compact)
 
 ## Get in Touch
 
