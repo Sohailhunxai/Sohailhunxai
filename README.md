@@ -21,4 +21,4 @@ Feel free to reach out to me for collaboration or just to say hi!
  📧 Email: [your-email@example.com](mailto:sohaildatoo1998@gmail.com)
 
  
- 💼 LinkedIn: [Sohail Abbas](https://www.linkedin.com/in/your-linkedin-username)
+ 💼 LinkedIn: [Sohail Abbas](https://www.linkedin.com/in/your-linkedin-sohaildatoo1998)
