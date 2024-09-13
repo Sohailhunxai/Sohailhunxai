@@ -15,7 +15,7 @@ I specialize in creating dynamic and responsive user interfaces and websites usi
 
  💼 LinkedIn:[Sohail Abbas](https://www.linkedin.com/in/sohaildatoo1998/)
 
- 📧 Email: [your-email@example.com](mailto:sohaildatoo1998@gmail.com)
+ 📧 Email: [sohaildatoo1998@gmail.com](mailto:sohaildatoo1998@gmail.com)
 
  
 
