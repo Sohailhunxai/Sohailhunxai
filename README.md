@@ -1,4 +1,4 @@
-# Hello ! I'm Sohail Abbas ..
+# Hello ! I'm Sohail Abbas ...
 
 I specialize in creating dynamic and responsive user interfaces and websites using the latest web technologies.
 
@@ -8,9 +8,6 @@ I specialize in creating dynamic and responsive user interfaces and websites usi
 - ❤️ I love writing TypeScript and building innovative experiments at the type level.
 - 🛠️ Tools & Technologies: JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, and more.
 
-## GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhunxai&layout=compact)
 
 ## Get in Touch
 
